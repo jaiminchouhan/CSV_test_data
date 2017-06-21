@@ -1,0 +1,20 @@
+date,category,employee name,employee address,expense description,pre-tax amount,tax name,tax amount
+10/19/2012,category 34,a,10 old kent lane,none,121,tax_2,100
+10/19/2013,category 35,b,11 old kent lane,none,130,tax_78,200
+10/19/2014,category 36,a,12 old kent lane,none,139,tax_154,300
+10/19/2015,category 37,b,13 old kent lane,none,148,tax_230,400
+10/19/2016,category 38,a,14 old kent lane,none,157,tax_306,500
+10/19/2017,category 39,b,15 old kent lane,none,166,tax_382,600
+10/19/2018,category 40,a,16 old kent lane,none,175,tax_458,700
+10/19/2019,category 41,b,17 old kent lane,none,184,tax_534,800
+10/19/2020,category 42,a,18 old kent lane,none,193,tax_610,900
+10/19/2021,category 43,b,19 old kent lane,none,202,tax_686,1000
+10/19/2022,category 44,a,20 old kent lane,none,211,tax_762,1100
+10/19/2023,category 45,b,21 old kent lane,none,220,tax_838,1200
+10/19/2024,category 46,a,22 old kent lane,none,229,tax_914,1300
+10/19/2025,category 47,b,23 old kent lane,none,238,tax_990,1400
+10/19/2026,category 48,a,24 old kent lane,none,247,tax_1066,1500
+10/19/2027,category 49,b,25 old kent lane,none,256,tax_1142,1600
+10/19/2028,category 50,a,26 old kent lane,none,265,tax_1218,1700
+10/19/2029,category 51,b,27 old kent lane,none,274,tax_1294,1800
+10/19/2030,category 52,a,28 old kent lane,none,283,tax_1370,1900
